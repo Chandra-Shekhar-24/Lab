@@ -3,7 +3,7 @@ public class add{
         int a = 5;
         int b = 10;
         int c = 15;
-        int d = a+b+c;
+        int d = a+b;
         System.out.println(d);
     }
 }
